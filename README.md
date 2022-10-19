@@ -37,4 +37,4 @@ In this project, I made a 3D visualization of my android phone's orientation.
 
 <br />
 
-> The [powerpoint presentation](https://github.com/SivadineshPonrajan/IMU-Visualization/blob/main/Presentation.pptx) is there as well. "Gesture controlled Quadcopter" part of the project is uploadded in different repository and you can find it [here](https://github.com/SivadineshPonrajan/Tello-Gyro).
+> The [powerpoint presentation](https://github.com/SivadineshPonrajan/IMU-Visualization/blob/main/Presentation.pptx) can be found in this repository as well. "Gesture controlled Quadcopter" part of the project is uploadded in different repository and you can find it [here](https://github.com/SivadineshPonrajan/Tello-Gyro).
